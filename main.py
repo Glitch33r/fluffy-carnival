@@ -1,7 +1,8 @@
 
 
 def print_hi(name):
-    print(f'Hi, {name}')
+    for i in range(10):
+        print(f'Hi, {name}')
 
 
 if __name__ == '__main__':
